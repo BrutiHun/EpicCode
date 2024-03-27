@@ -13,7 +13,7 @@ namespace ConsoleApp1
             int c = Convert.ToInt32(Console.ReadLine());
             for(int i=0; i<=c;i++)
             {
-
+                Console.WriteLine(i);
             }
 
         }
