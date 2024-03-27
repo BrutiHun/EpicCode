@@ -11,7 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int c = Convert.ToInt32(Console.ReadLine());
-            
+            for(int i=0; i<=c;i++)
+            {
+
+            }
 
         }
     }
